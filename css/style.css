@@ -1282,7 +1282,7 @@
   -moz-appearance: none;
   -o-appearance: none;
 
-  background-image: url("svg/form-arrows.svg");
+  background-image: url("../svg/form-arrows.svg");
   background-size: 12px;
   background-repeat: no-repeat;
 	background-position: right 15px center;
@@ -1328,14 +1328,14 @@
 }
 
 .checkbox:checked + .empty {
-  background-image: url("svg/form-circle.svg");
+  background-image: url("../svg/form-circle.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 0.9375em;
 }
 
 .checkbox:checked + .checked {
-  background-image: url("svg/form-circle.svg");
+  background-image: url("../svg/form-circle.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 0.9375em;
